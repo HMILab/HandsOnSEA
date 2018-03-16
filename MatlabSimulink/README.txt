@@ -1,0 +1,2 @@
+You can navigate to the intended folder and use the LAUNCH files to change some of the parameters(before building), deploy on the microcontoller and run the simulation. 
+Deploying takes time, you may want to comment out "slbuild(modelname)" avoid building all the time or directly run the simulation files.

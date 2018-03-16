@@ -282,3 +282,33 @@ TSWLatexianTemp*
 
 # expex forward references with \gathertags
 *-tags.tex
+
+## Matlab files
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files 
+*.mlappinstall 
+*.mltbx 
+  
+# Generated helpsearch folders 
+helpsearch*/ 
+
+# Simulink code generation folders and extensions
+slprj/
+sccprj/
+_ert_rtw/
+*.out
+*.hex
+
+# Simulink autosave extension
+*.autosave
+
+# Octave session info
+octave-workspace
